@@ -1,3 +1,1 @@
-test
-ets
-test
+print('Hello world')
